@@ -1,2 +1,2 @@
 # desaturated-v4
-New website using Brunch.
+New website built with SASS, Bourbon, Neat, PostCSS using Brunch.
